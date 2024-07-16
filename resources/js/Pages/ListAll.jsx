@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { usePage } from '@inertiajs/inertia-react';
 
-const LandingPage = () => {
+const ListAll = () => {
     const { props } = usePage();
     const [subscribes, setSubscribes] = useState(props.subscribes || []);
 
@@ -26,4 +26,4 @@ const LandingPage = () => {
     );
 };
 
-export default LandingPage;
+export default ListAll;
