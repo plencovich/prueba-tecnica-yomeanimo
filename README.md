@@ -1,12 +1,12 @@
 ## Laravel + Inertia con ReactJS
 
-### Prueba técnica para Yomeanimo.com
+### Test Demo Lararevel
 
 #### Version 07.2024
 
 ### Instalación
 
-1. Clonar Repo `git clone git@github.com:plencovich/prueba-tecnica-yomeanimo.git`
+1. Clonar Repo `git clone git@github.com:plencovich/test-demo-laravel-reactjs.git`
 
 2. Ejecutar `npm install`
 
